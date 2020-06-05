@@ -24,3 +24,17 @@ Merging two datasets and finding correlations among our data.
 
 
 Visualizing the analysis results using Seaborn.
+
+
+
+CONCLUSION:
+
+Through the correlation matrix we found there is a positive correlation between max_infection_rate and all life factors . Thus we can conclude that in initial stages,people in developed countries are more prone to corona virus .
+
+Their travel history across the world could be one of the reason.Also less number of test kits in developing countries too.
+But during the later half ,Developing countries are getting severely affected.
+
+Social distancing is practically impossible in crowded communities, health systems are ill-equipped, malnutrition and poverty are often widespread and vulnerable economies dependent on industries such as tourism will falter. 
+
+Political instability, xenophobia and social unrest present additional risks as the coronavirus spreads.
+
